@@ -1,0 +1,22 @@
+<html>
+
+	<head>
+	<title>Bill Green Information</title>
+	</head>
+	<body>
+
+	<?php
+
+	$f = fopen("Bill Details.txt", "r");
+
+	// Read line by line until end of file
+	while(!feof($f)) { 
+	    echo fgets($f) . "<br />";
+	}
+
+	fclose($f);
+
+	?>
+
+	</body>
+</html>
