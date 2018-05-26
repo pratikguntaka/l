@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Editorial by HTML5 UP</title>
+		<title>Your Very Own Financial Advisor</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -48,9 +48,7 @@
 											<li><a href="#" class="button big">Learn More</a></li>
 										</ul>
 									</div>
-									<span class="image object">
-										<img src="images/pic10.jpg" alt="" />
-									</span>
+
 								</section>
 
 	</body>
