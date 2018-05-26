@@ -40,12 +40,13 @@
 										<header>
 											<h1 style="text-align:center;">Welcome to LEPR<br />
 											Financial Advising</h1>
-											<p style="text-align:center;">Let's get started</p>
+											<p style="text-align:center;">LEPR is a program developed primiarily for students to propose a reasonable budget according to their needs.</p>
 										</header>
-										<p>LEPR is a program developed primiarily for students to propose a reasonable budget according to their needs.</p>
-										<ul class="actions">
-											<li><a href="#" class="button big">Learn More</a></li>
-										</ul>
+										 <form action="/action_page.php">
+  											Username/Account Number: <input type="text" name="fname"><br>
+  											Password: <input type="text" name="lname"><br>
+  											<input type="Enter" value="Enter">
+										</form> 
 									</div>
 
 								</section>
