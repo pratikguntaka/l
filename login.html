@@ -1,22 +1,8 @@
+<!DOCTYPE html>
 <html>
-
-	<head>
-	<title>Bill Green Information</title>
-	</head>
+<link rel="stylesheet" href="assets/css/main.css" />
+<h1>Welcome, User</h1>
 	<body>
-
-	<?php
-
-	$f = fopen("Bill Details.txt", "r");
-
-	// Read line by line until end of file
-	while(!feof($f)) { 
-	    echo fgets($f) . "<br />";
-	}
-
-	fclose($f);
-
-	?>
-
+		 <?php include("load_tables.php") ?>
 	</body>
 </html>
