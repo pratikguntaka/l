@@ -24,15 +24,6 @@
 						<div class="inner">
 
 							<!-- Header -->
-								<header id="header">
-									<ul class="icons">
-										<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
-										<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="#" class="icon fa-medium"><span class="label">Medium</span></a></li>
-									</ul>
-								</header>
 
 							<!-- Banner -->
 								<section id="banner">
@@ -43,9 +34,9 @@
 											<p style="text-align:center;">LEPR is a program developed primiarily for students to propose a reasonable budget according to their needs.</p>
 										</header>
 										 <form action="/action_page.php">
-  											Username/Account Number: <input type="text" name="fname"><br>
-  											Password: <input type="text" name="lname"><br>
-  											<input type="Enter" value="Enter">
+  											Username/Account Number: <input type="text" name="username/account number" width="48"><br>
+  											Password: <input type="password" name="password" width="48"><br>
+  											<button type="button" >LOGIN</button>
 										</form> 
 									</div>
 
