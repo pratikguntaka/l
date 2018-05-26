@@ -2303,7 +2303,7 @@
 		display: block;
 		font-size: 0.9em;
 		font-weight: 600;
-		margin: 0 0 1em 0;
+		margin: 0 1em;
 	}
 
 	input[type="text"],
@@ -2327,7 +2327,6 @@
 		outline: 0;
 		margin: 0 auto;
 		padding: 0 1em;
-		text-align: center;
 		text-decoration: none;
 		width: 50%;
 	}
