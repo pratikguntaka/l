@@ -36,9 +36,9 @@
 											Financial Advising</h1>
 											<p style="text-align:center;">LEPR is a program developed primiarily for students to propose a reasonable budget according to their needs.</p>
 										</header>
-										 <form action="/action_page.php">
-  											Username/Account Number: <input type="text" size="40" name="username/account number"><br>
-  											Password: <input type="password" size="40" name="password"><br>
+										 <form action="/action_page.php"> 
+  											Username/Account Number: <input type="text" style="text-align:center;" name="username/account number" size="40"><br>
+  											Password: <input type="password" style="text-align:center;" name="password" size="40"><br>
   											<button type="button" >LOGIN</button>
 										</form> 
 									</div>
