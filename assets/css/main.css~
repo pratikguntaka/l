@@ -2502,7 +2502,7 @@
 		opacity: 1.0;
 	}
 
-/* Box */
+/* Box 
 
 	.box {
 		border-radius: 0.375em;
@@ -2521,7 +2521,7 @@
 			border: 0;
 			border-radius: 0;
 			padding: 0;
-		}
+		} */
 
 /* Icon */
 
@@ -2869,7 +2869,7 @@
 			margin-left: 2em;
 		}
 
-/* Table */
+/* Table 
 
 	.table-wrapper {
 		-webkit-overflow-scrolling: touch;
@@ -2935,7 +2935,7 @@
 
 			table.alt tfoot {
 				border-top: 0;
-			}
+			}  */
 
 /* Button */
 
@@ -2970,8 +2970,6 @@
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-		margin-left:auto;
-		margin-right:0px;
 	}
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,

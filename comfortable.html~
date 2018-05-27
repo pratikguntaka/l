@@ -31,15 +31,9 @@
 							<!-- Banner -->
 								<section id="banner">
 									<div class="content">
-										<header>
-											<h1 style="text-align:center;">Welcome to PERL<br />
-											Financial Advising</h1>
-											<p style="text-align:center;">PERL is a program developed primiarily for students to propose a reasonable budget according to their needs.</p>
-										</header>
 										 <form action="/action_page.php"> 
-  											Username/Account Number: <input type="text" style="align:center;" name="username/account number" ><br>
-  											Password: <input type="password" style="align:center;" name="password"><br>
-  											<button type="button" >LOGIN</button>
+  											<h1 style="text-align:center;"> <font size="11">Your current plan is displayed at the top</font></h1>
+											<h2 style="text-align:center;"> <font size="11">Your suggested comfortable plan for is displayed at the bottom</font></h2> 
 										</form> 
 									</div>
 								</section>

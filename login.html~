@@ -25,11 +25,25 @@
 											<h1 style="text-align:center;">Your Account Details<br /> </h1>
 											<p style="text-align:center;">View your information and choose your desired option for a plan</p>
 										</header>
+										<style> 
+											#example1 {
+											    box-sizing: content-box;    
+											    width: 1000px;
+											    height: 120px;
+											    padding: 50px;    
+											    border: 2px solid red;
+											    .center {margin: auto;}	
+											}
+										</style>
+										<div id="example1">This div has a width of 300px. But the full width is 300px + 20px (left and right border) + 60px (left and right padding) = 380px!</div>
+											&#160;
+											&#160;
 										 <form action="/action_page.php"> 
   											<button type="button" >SuperSaver</button> 
 											<button type="button" >Comfortable</button>
 											<button type="button" >Adventurous</button>
 										</form> 
 									</div>
+										
 								</section>
 </html>
